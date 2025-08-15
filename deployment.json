@@ -1,0 +1,9 @@
+{
+  "contractAddress": "0x8Bcc6D9a605171EC175b252DF04DdAC12Bedd4BB",
+  "network": "monadTestnet",
+  "chainId": 10143,
+  "owner": "0x10e520D8AB754739EC912e53c8a73aE03e22e189",
+  "mintPrice": "1000000000000000000",
+  "deployedAt": "2025-08-15T17:42:23.951Z",
+  "explorerUrl": "https://testnet.monadexplorer.com/address/0x8Bcc6D9a605171EC175b252DF04DdAC12Bedd4BB"
+}
