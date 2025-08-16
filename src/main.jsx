@@ -10,10 +10,4 @@ createRoot(document.getElementById('root')).render(
 )
 import { sdk } from '@farcaster/miniapp-sdk'; //
 
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-);
-
 sdk.actions.ready();
