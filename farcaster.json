@@ -1,7 +1,0 @@
-{
-  "name": "Gmonad Mini App",
-  "description": "A Farcaster mini app for Gmonad.",
-  "icon": "https://gmonad-farcaster.vercel.app/favicon.ico",
-  "url": "https://gmonad-farcaster.vercel.app/",
-  "version": "0.0.1"
-}
