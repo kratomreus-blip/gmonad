@@ -3,5 +3,10 @@
   "description": "A Farcaster mini app for Gmonad.",
   "icon": "https://gmonad-farcaster.vercel.app/favicon.ico",
   "url": "https://gmonad-farcaster.vercel.app/",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI0NTMyNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDBiNzgyNTJCNTVGRjlGMzM2YzU3MTNiRERhODQ4YzIyYUEzODk4NDAifQ",
+    "payload": "eyJkb21haW4iOiJnbW9uYWQtZmFyY2FzdGVyLnZlcmNlbC5hcHAifQ",
+    "signature": "MHhmOWEzMmFkMmMzMjRhZTc0OGNhNTYzZjRhZTY0NDlmNTIwMmJjNjE5MTcxODE4MzQ1Mjc0NmE3MjkxMTgwMGZkMjZiMTk2NTk0ZDUxZmJkZmE0NGU3NjQzY2Y4YzBhZWRhMjg0MzE5MGJmZjk5OTQ4MDc4N2ZjNmY3MmVhYTg4MWI="
+  }
 }
