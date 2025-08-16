@@ -8,3 +8,12 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+import { sdk } from '@farcaster/miniapp-sdk'; // <-- TAMBAHKAN BARIS INI
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+);
+
+sdk.actions.ready(); // <-- TAMBAHKAN BARIS INI
